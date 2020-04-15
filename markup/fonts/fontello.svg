@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="arrow" unicode="&#xe800;" d="M1493 318l-463-462a72 72 0 0 0-83 27 70 70 0 0 0-28 84l318 315h-1158a78 78 0 1 0 0 156h1136l-296 295a70 70 0 0 0 28 83 68 68 0 0 0 82 27l464-462a30 30 0 0 0 5-31 34 34 0 0 0-5-32z" horiz-adv-x="1499" />
+
+<glyph glyph-name="arrow1" unicode="&#xe801;" d="M312-145l-308 309c-10 10-2 35 19 55s45 29 55 19l210-212v772a52 52 0 1 0 104 0v-758l197 198c10 10 35 2 55-19s28-45 18-55l-308-309a21 21 0 0 0-20-3 21 21 0 0 0-22 3z" horiz-adv-x="666" />
+
+<glyph glyph-name="ellipse" unicode="&#xe802;" d="" horiz-adv-x="1000" />
+
+<glyph glyph-name="cross" unicode="&#xe803;" d="M537 344l135 135c7 7 7 20 0 28-8 8-21 8-29 0l-134-135-135 135c-8 8-20 8-28 0s-8-21 0-28l134-135-143-143c-7-8-7-20 0-28 4-4 9-6 15-6s10 2 14 6l143 143 143-143c4-4 9-6 14-6s10 2 14 6c8 8 8 20 0 28l-143 143z" horiz-adv-x="1000" />
+
+<glyph glyph-name="phone" unicode="&#xe804;" d="M973 116l-140 140c-50 50-134 30-154-35-15-45-65-70-110-60-100 25-234 155-259 259-15 45 15 95 60 110 65 20 84 104 35 154l-140 140c-40 35-100 35-134 0l-95-95c-95-99 10-364 244-598 234-234 498-344 598-244l95 94c35 40 35 100 0 135z" horiz-adv-x="1000" />
+
+<glyph glyph-name="user" unicode="&#xe805;" d="M500 850c-145 0-264-118-264-264s119-263 264-263 264 118 264 263-119 264-264 264z m328-700c-72 74-168 114-269 114h-118c-101 0-197-40-269-114-72-72-111-169-111-271 0-16 13-29 29-29h820c16 0 30 13 30 29 0 102-40 199-112 271z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

@@ -1,0 +1,112 @@
+footer {
+    padding-bottom: 60px;
+    padding-top: 45px;
+    background-color: #fc3f38;
+    .all-footer{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        .logo{
+            display: block;
+            margin-bottom: 45px;
+        }
+        nav{
+            width: 100%;
+            margin-bottom: 45px;
+            ul{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-wrap: wrap;
+                li{
+                    text-align: center;
+                    width: 100%;
+                    &:not(:last-of-type){
+                        margin-bottom: 12px;
+                    }
+                    a{
+                        color: #ffffff;
+                        font-size: 16px;
+                        font-weight: 300;
+                        transition: 0.5s;
+                            &:hover{
+                                color: #231f20;
+                            }
+                    }
+                }
+            }
+        }
+        span{
+            display: block;
+            text-align: center;
+            color: #ffffff;
+            font-size: 16px;
+            font-weight: 300;
+        }
+    }
+}
+
+@media screen and (min-width: 768px){
+    footer{
+        .all-footer{
+            align-items: flex-start;
+            .logo{
+                width: 30%;
+                margin-bottom: 40px;
+            }
+            nav{
+                width: 70%;
+                margin-bottom: 0;
+                margin-top: 20px;
+                ul{
+                    flex-wrap: nowrap;
+                    li{
+                        &:not(:last-of-type){
+                            margin-bottom: 0;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (min-width: 1024px){
+
+}
+@media screen and (min-width: 1280px){
+    footer{
+        padding-top: 35px;
+        padding-bottom: 50px;
+        .all-footer{
+            align-items: flex-end;
+            flex-wrap: nowrap;
+            .logo{
+                width: auto;
+                max-width: 209px;
+                order: 0;
+                margin-bottom: 0;
+            }
+            span{
+                order: 1;
+                margin-bottom: 7px;
+            }
+            nav{
+                max-width: 501px;
+                width: 100%;
+                order: 2;
+                margin-top: 0;
+                margin-bottom: 7px;
+                ul{
+                    justify-content: space-between;
+                }
+            }
+        }
+    }
+}
+@media screen and (min-width: 1600px){
+
+}
+@media screen and (min-width: 1920px){
+
+}
