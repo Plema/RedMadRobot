@@ -45,11 +45,12 @@ grunt.initConfig({
 	// Sass Configuration
 	sass: {
 		options: {
-			loadPath: ['bower_components/foundation/foundation.scss']
+			loadPath: ['bower_components/foundation/foundation.scss'],
+			// sourceMap :true,
 		},
 		dist: {
 			options: {
-				sourcemap: 'none',
+				// sourcemap: 'none',
 				style: 'compressed'
 			},
 			files: [{
