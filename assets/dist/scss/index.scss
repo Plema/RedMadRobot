@@ -52,7 +52,7 @@
             .gif{
                 position: relative;
                 z-index: 5;
-                border: 8px solid #FAF9FB;
+                border: 8px solid #CAC9CB;
                 border-radius: 17px;
                 max-width: 167px;
                 background: #FAF9FB;
@@ -74,7 +74,7 @@
                 }
                 img{
                     max-width: 151px;
-                    border-radius: 10px;
+                    border-radius: 8px;
                 }
             }
             .screen{
@@ -1147,11 +1147,11 @@
                 .gif{
                     max-width: 302px;
                     max-height: 621px;
-                    border: 14px solid #FAF9FB;
+                    border: 14px solid #CAC9CB;
                     border-radius: 35px;
                     img{
                         max-width: 274px;
-                        border-radius: 27px;
+                        border-radius: 20px;
                     }
                     &:after{
                         width: 140px;
